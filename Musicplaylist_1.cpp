@@ -140,12 +140,12 @@ int main() {
     
     do {
         cout << "\nMusic Playlist Menu:\n";
-        cout << "1. Insert a song at the beginning\n";
-        cout << "2. Insert a song at the end\n";
-        cout << "3. Insert a song at a specific position\n";
-        cout << "4. Delete a song from the beginning\n";
-        cout << "5. Delete a song from the end\n";
-        cout << "6. Delete a song from a specific position\n";
+        cout << "1. Add a song at the beginning\n";
+        cout << "2. Add a song at the end\n";
+        cout << "3. Add a song at a specific position\n";
+        cout << "4. Remove a song from the beginning\n";
+        cout << "5. Remove a song from the end\n";
+        cout << "6. Remove a song from a specific position\n";
         cout << "7. Display the playlist\n";
         cout << "8. Exit\n";
         cout << "Enter your choice: ";
